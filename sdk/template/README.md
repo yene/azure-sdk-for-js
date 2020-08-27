@@ -27,5 +27,3 @@ Tests follow a similar pipeline, however test output is under `dist-test` folder
 [contributing_guide]: https://github.com/Azure/azure-sdk-for-js/blob/master/CONTRIBUTING.md
 
 https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/appconfiguration/app-configuration/README.md
-
-https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/appconfiguration/app-configuration/README.md
